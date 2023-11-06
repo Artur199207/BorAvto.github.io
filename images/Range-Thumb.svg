@@ -1,0 +1,16 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Left-Thumb">
+<circle id="Ellipse" cx="10" cy="10" r="8.5" fill="url(#paint0_linear_4703_9106)" stroke="url(#paint1_linear_4703_9106)" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4703_9106" x1="0.968859" y1="0.90909" x2="22.0021" y2="15.3054" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E3E3E3"/>
+<stop offset="0.523958" stop-color="white"/>
+<stop offset="1" stop-color="#E3E3E3"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4703_9106" x1="0.41152" y1="0.107144" x2="19.5346" y2="-0.329427" gradientUnits="userSpaceOnUse">
+<stop stop-color="#095DFF"/>
+<stop offset="1" stop-color="#A953FF"/>
+</linearGradient>
+</defs>
+</svg>
